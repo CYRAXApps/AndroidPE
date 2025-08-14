@@ -1,5 +1,5 @@
 ### Android Project Editor
-<br>
+
 An application to efficiently and quickly manage your resources of your Android projects based on Gradle on your Android phone.
 
 ### Features
