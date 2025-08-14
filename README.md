@@ -5,11 +5,12 @@ An application to efficiently and quickly manage your resources of your Android 
 [![AndroidPE](https://img.shields.io/badge/Download-Letest_Release-blue?style=for-the-badge)](https://github.com/CYRAXApps/AndroidPE/releases/tag/AndroidPE)
 
 ### Features
-Layout Editor
-WYSIWYG editing 
-Drag and drop 
-Component properties with value auto completion 
-Preview mode 
-strings, colors, dimens & menus can be modified by assistance
-Supports multi-module projects 
-Manage activities, permissions, ...
+- [X] Layout Editor
+- [X] WYSIWYG editing
+- [X] Drag and drop
+- [X] Component properties with value auto-completion
+- [X] Preview mode
+- [X] strings, colors, dimens & menus can be modified by assistance
+- [X] Supports multi-module projects
+- [X] Manage activities, permissions, ...
+- [ ] Language servers for Code Editor
