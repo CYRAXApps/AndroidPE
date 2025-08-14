@@ -1,8 +1,7 @@
-# Android Project Editor
-
+## Android Project Editor
 An application to efficiently and quickly manage your resources of your Android projects based on Gradle on your Android phone.
 
-# Features
+### Features
 Layout Editor
 WYSIWYG editing
 Drag and drop
